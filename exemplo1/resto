@@ -1,0 +1,130 @@
+<section id="consumo">
+    <h2>Formas de Consumo</h2>
+    <p>O açaí pode ser consumido de várias maneiras, desde o tradicional até o gourmet:</p>
+    <ol>
+      <li>Açaí na tigela com frutas e granola.</li>
+      <li>Bebidas energéticas, como sucos e vitaminas.</li>
+      <li>Pratos típicos do Pará, acompanhado de peixe e farinha.</li>
+    </ol>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/A%C3%A7a%C3%AD_com_granola.jpg" alt="Tigela de açaí com granola e banana">
+  </section>
+</article>
+</main>
+
+<aside>
+<h2>Curiosidade</h2>
+<p>No Pará, o açaí é consumido de forma salgada, acompanhado de peixe e farinha, bem diferente da versão adocicada popular no restante do país.</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Acai_com_peixe.jpg" alt="Açaí tradicional com peixe e farinha">
+</aside>
+
+<footer>
+<p>&copy; 2025 - Página educativa sobre o Açaí</p>
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav aria-label="Menu principal">
+        <ul>
+          <li><a href="#opcao1">Opção 1: Leitores de Tela Nativos</a></li>
+          <li><a href="#opcao2">Opção 2: Extensões de Navegador</a></li>
+          <li><a href="#como-testar">Como Testar</a></li>
+        </ul>
+      </nav>
+    
+      <main>
+        <article>
+          <section id="opcao1">
+            <h2>Opção 1: Usando Leitores de Tela Nativos</h2>
+            <p>Você pode utilizar os leitores já disponíveis no seu sistema operacional:</p>
+            <ul>
+              <li><strong>Windows:</strong> NVDA (NonVisual Desktop Access), gratuito e muito popular.</li>
+              <li><strong>macOS:</strong> VoiceOver, já incluso no sistema.</li>
+              <li><strong>iOS/Android:</strong> Leitores de tela nativos também estão integrados nos dispositivos móveis.</li>
+            </ul>
+          </section>
+    
+          <section id="opcao2">
+            <h2>Opção 2: Extensões de Navegador</h2>
+            <p>Se não quiser instalar um programa, é possível utilizar extensões do navegador:</p>
+            <ul>
+              <li><strong>Chrome:</strong> ChromeVox é uma alternativa prática para testes rápidos.</li>
+            </ul>
+          </section>
+    
+          <section id="como-testar">
+            <h2>Como Testar seu Site</h2>
+            <ol>
+              <li>Abra seu site no navegador.</li>
+              <li>Ative o leitor de tela.</li>
+              <li>Desative o mouse e utilize apenas o teclado.</li>
+              <li>Navegue usando <kbd>Tab</kbd> e as setas do teclado.</li>
+              <li>Ouça como cada elemento é anunciado.</li>
+              <li>Note a diferença entre tags semânticas, como <code>&lt;nav&gt;</code> e <code>&lt;div&gt;</code>, <code>&lt;article&gt;</code> e <code>&lt;section&gt;</code>.</li>
+            </ol>
+          </section>
+        </article>
+      </main>
+    
+      <aside>
+        <h2>Dica Extra</h2>
+        <p>Use descrições alternativas em imagens (<code>alt</code>) para garantir que leitores de tela transmitam corretamente o conteúdo visual.</p>
+      </aside>
+    
+      <footer>
+        <p>&copy; 2025 - Tutorial de Acessibilidade Web</p>
+      </footer>
+    </body>
+    </html>
+    
+   
+</body>
+</html>
