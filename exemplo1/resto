@@ -1,3 +1,206 @@
+<!DOCTYPE html>
+    <html lang="pt-BR">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Tutorial de Leitores de Tela</title>
+
+      <!--Google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap" rel="stylesheet">
+
+    <!--Font awesome-->
+    <script src="https://kit.fontawesome.com/01b01c828d.js" crossorigin="anonymous"></script>
+
+
+    <!--Meu estilo-->
+    <link rel="stylesheet" href="./css/syte.css"> 
+
+    </head>
+    <body>
+      <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Açaí: Origem, Benefícios e Consumo</title>
+  <style>
+    body {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+      line-height: 2;
+      background-color: #d3a1ec; /* fundo roxo claro */
+      margin: 0;
+      padding: 0;
+    }
+    header, main, aside, footer {
+      margin: 20px auto;
+      max-width: 900px;
+      background: #c449dde8;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    header {
+      background: #a74cd1;
+      color: #fff;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0;
+    }
+    nav ul li {
+      display: inline;
+      margin: 0 15px;
+    }
+    nav a {
+      text-decoration: none;
+      color: #6a0572;
+      font-weight: bold;
+    }
+    img {
+      max-width: 350px;
+      border-radius: 8px;
+      margin: 15px auto;
+      display: block;
+    }
+    footer {
+      font-size: 0.9em;
+      color: #333;
+    }
+
+    .beneficios{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: left;
+      line-height: 2;
+      background-color: #d3a1ec; /* fundo roxo claro */
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+
+<body>
+    <header>
+      <h1>Tudo sobre o Açaí</h1>
+      <p>A fruta amazônica que conquistou o Brasil e o mundo.</p>
+      <img src="acai.jpg" alt="Tigela de açaí com frutas e granola">
+    </header>
+  
+  
+    <nav aria-label="Menu principal">
+      <ul>
+        <li><a href="index.html">Origem</a></li>
+        <li><a href="site2.html">Bénificios</a></li>
+        <li><a href="#">Consumo</a></li>
+      </ul>
+     </a>
+    </nav>
+
+<section id="beneficios">
+    <a href="index.html">
+    <h2>Benefícios do Açaí</h2></a>
+    <p>Além de seu sabor marcante e refrescante, de suas cores vibrantes e da tradição que carrega da Amazônia, o açaí é um alimento rico em nutrientes:</p>
+    <ul>
+        <h4>
+            <p>Fonte de energia natural.</p>
+            <p>Rico em antioxidantes</p> 
+            <p>Contém minerais</p>
+            <p>Possui gorduras boas para o coração</p>
+            <p>Rico em fibras</p>
+            <p>Contém vitaminas</p>
+           
+        </h4>
+    </ul>
+    <img src="poacai.webp" alt="Açaí em pó pronto para consumo">
+  </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="beneficios">
+  <href="site2.html" target="_blank">
+  <h2>Benefícios do Açaí</h2>
+  <p>Além de seu sabor marcante e refrescante, de suas cores vibrantes e da tradição que carrega da Amazônia, o açaí é um alimento rico em nutrientes:</p>
+  <ul>
+      <h4>
+          <p>Fonte de energia natural.</p>
+          <p>Rico em antioxidantes</p> 
+          <p>Contém minerais</p>
+          <p>Possui gorduras boas para o coração</p>
+          <p>Rico em fibras</p>
+          <p>Contém vitaminas</p>
+         
+      </h4>
+  </ul>
+  <img src="poacai.webp" alt="Açaí em pó pronto para consumo">
+</section>
+
+<section id="consumo">
+  <h2>Formas de Consumo</h2>
+  <p>O açaí pode ser consumido de várias maneiras, desde o tradicional até o gourmet:</p>
+  <ul>
+    <li>Açaí na tigela com frutas e granola.</li>
+    <li>Bebidas energéticas, como sucos e vitaminas.</li>
+    <li>Pratos típicos do Pará, acompanhado de peixe e farinha.</li>
+  </ul>
+  <img src="acaibanana.webp" alt="Tigela de açaí com granola e banana">
+</section>
+</article>
+</main>
+
+<aside>
+<a href="https://youtu.be/L08Yo7MO6N4?feature=shared"><h2>Curiosidades</h2></a>
+<p>Embora seja conhecido hoje como superalimento e energético natural, o açaí fresco se deteriora rapidamente, exigindo processamento
+   imediato para preservar suas propriedades. Poucos sabem que sua cor roxa intensa vem das antocianinas, poderosos antioxidantes que
+    protegem as células do organismo. Tradicionalmente, as comunidades ribeirinhas da Amazônia consumiam o açaí de forma bem diferente
+     da que conhecemos atualmente: ele era misturado com peixe ou farinha de mandioca, formando uma refeição energética e nutritiva, essencial para o 
+     dia a dia na floresta. Além disso, o açaí também podia ser utilizado como corante natural para tecidos e objetos. Hoje, ele pode ser consumido de diversas formas, como 
+     polpa, sucos, smoothies, tigelas com frutas e granola, sorvetes, e até em preparações salgadas, mantendo sua versatilidade cultural e gastronômica.</p>
+<img src="acaipeixe.jpg" alt="Açaí tradicional com peixe e farinha">
+</aside>
+
+<footer>
+<p>&copy; Feito por Júlia Souza</p>
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="consumo">
     <h2>Formas de Consumo</h2>
     <p>O açaí pode ser consumido de várias maneiras, desde o tradicional até o gourmet:</p>
